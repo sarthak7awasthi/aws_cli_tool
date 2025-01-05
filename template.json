@@ -1,0 +1,11 @@
+{
+    "messages": [
+        {
+            "messageType": "UPLOAD",
+            "fileUrl": "{{fileUrl}}",
+            "uuid": "{{uuid}}",
+            "publisherId": "default_publisher",
+            "timestamp": "{{timestamp}}"
+        }
+    ]
+}

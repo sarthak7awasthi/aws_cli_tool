@@ -1,0 +1,46 @@
+# Ignore Python virtual environment
+venv/
+.venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Cache and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.DS_Store
+
+# Environment variables file
+.env
+
+# Package directories
+*.egg-info/
+dist/
+build/
+
+# Installed package dependencies
+*.egg
+*.whl
+pip-log.txt
+
+# IDE and editor-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Test and coverage output
+.coverage
+*.cover
+coverage/
+.nyc_output/
+pytest_cache/
+
+# System files
+Thumbs.db
+.DS_Store
