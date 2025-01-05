@@ -1,6 +1,7 @@
 # AWS CLI Tool
 
 A simple and reusable AWS CLI tool for managing **EC2 instances**, **SQS queues and messages**, and **CloudWatch logs**.
+Helps you get everything setup start with cli directly.
 
 ---
 
